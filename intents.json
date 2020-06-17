@@ -39,11 +39,6 @@
          "responses": ["Prince Rajbhar Developed Me!","My Boss is Prince Rajbhar!", "I'm Created By Prince Rajbhar!"],
          "context_set": ""
         },
-        {"tag": "likes",
-         "patterns": ["what your favourite song", "which song you like", "favourite song"],
-         "responses": ["My Favourite song is 'Ae Ajnabi'","I Like 'Ae Ajnabi'", "'Ae Ajnabi' is my Favourite."],
-         "context_set": ""
-        },
         {"tag": "actor",
          "patterns": ["who is your favourite actor", "which actor you like", "favourite actor"],
          "responses": ["My Favourite actor is Shah Rukh Khan","I Like Shah Rukh Khan!", "Shah Rukh Khan is my Favourite."],
